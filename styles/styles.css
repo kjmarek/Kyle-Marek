@@ -16,7 +16,8 @@ div {
 .section-style {
   margin-right: 25px;
   margin-left: 25px;
-  background-color: white;
+  max-width: 25%;
+  max-height: 266px;
 }
 
 .main {
