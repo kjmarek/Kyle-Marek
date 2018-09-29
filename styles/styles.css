@@ -29,6 +29,12 @@ div {
   font-size: 20px;
 }
 
+.info {
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 .header {
   background-color: #FFD700;
   margin-top: 0px; 
