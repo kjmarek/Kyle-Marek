@@ -38,4 +38,5 @@ div {
   margin-block-start: 0px;
   font-size: 60px;
   font-weight: normal;
+  padding-block-end: 10px;
 }
