@@ -86,7 +86,7 @@ div {
 }
 .navbarLI-active {
   float: left;
-  background-color: firebrick;
+  background-color: #FFFAF0;
 }
 .navbarLI-A {
   display: block;
