@@ -83,10 +83,12 @@ div {
 }
 .navbarLI {
   float: left;
+  border-right: 1px solid #FFFAF0;
 }
 .navbarLI-active {
   float: left;
   background-color: gold;
+  border-right: 1px solid #FFFAF0;
 }
 .navbarLI-A-active {
   display: block;
