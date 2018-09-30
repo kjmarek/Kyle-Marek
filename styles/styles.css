@@ -97,6 +97,7 @@ div {
 }
 .navbarLI-A-active:hover {
   background-color: firebrick;
+  color: gold;
 }
 .navbarLI-A {
   display: block;
