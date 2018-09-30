@@ -95,6 +95,9 @@ div {
   padding: 14px 16px;
   text-decoration: none;
 }
+.navbarLI-A-active:hover {
+  background-color: firebrick;
+}
 .navbarLI-A {
   display: block;
   color: gold;
