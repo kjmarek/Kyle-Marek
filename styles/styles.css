@@ -14,7 +14,7 @@ div {
   margin-bottom: 15px;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
 .image-section {
   display: flex;
   justify-content: center;
@@ -30,7 +30,7 @@ div {
   display: block;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
 .section-style {
   margin-right: 25px;
   margin-left: 25px;
