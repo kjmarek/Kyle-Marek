@@ -17,7 +17,9 @@ div {
 .section-style {
   margin-right: 25px;
   margin-left: 25px;
-  witdth: 90%;
+  max-width: 90%;
+  max-height: 266px;
+  display: inline-block;
 }
 
 @media (min-width: 800px) {
@@ -26,6 +28,7 @@ div {
   margin-left: 25px;
   max-width: 25%;
   max-height: 266px;
+  display: inline
 }
 }
 
