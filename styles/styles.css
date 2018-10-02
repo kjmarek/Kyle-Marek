@@ -28,7 +28,7 @@ div {
   margin-left: 25px;
   max-width: 25%;
   max-height: 266px;
-  display: inline
+  display: block;
 }
 }
 
