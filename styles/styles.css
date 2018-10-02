@@ -14,9 +14,9 @@ div {
   margin-bottom: 15px;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
 .image-section {
-  display: block;
+  display: flex;
   justify-content: center;
   margin-bottom: 15px;
 }
