@@ -19,7 +19,7 @@ div {
   margin-left: 25px;
   max-width: 90%;
   max-height: 266px;
-  display: inline-block;
+  display: block;
 }
 
 @media (min-width: 800px) {
