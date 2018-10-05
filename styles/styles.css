@@ -118,7 +118,7 @@ div {
   text-decoration: none;
 }
 .navbarLI-A-active:hover {
-  background-color: #ff2c2c;
+  background-color: #FFFAF0;
 }
 .navbarLI-A {
   display: block;
@@ -128,7 +128,7 @@ div {
   text-decoration: none;
 }
 .navbarLI-A:hover {
-  background-color: #ff2c2c;
+  background-color: #FFFAF0;
 }
 
 
