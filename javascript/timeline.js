@@ -5,27 +5,27 @@ $(".step").click( function() {
 
 $(".step01").click( function() {
 	$("#line-progress").css("width", "3%");
-	$(".discovery").addClass("active").siblings().removeClass("active");
+	$(".early").addClass("active").siblings().removeClass("active");
 });
 
 $(".step02").click( function() {
 	$("#line-progress").css("width", "25%");
-	$(".strategy").addClass("active").siblings().removeClass("active");
+	$(".high").addClass("active").siblings().removeClass("active");
 });
 
 $(".step03").click( function() {
 	$("#line-progress").css("width", "50%");
-	$(".creative").addClass("active").siblings().removeClass("active");
+	$(".college").addClass("active").siblings().removeClass("active");
 });
 
 $(".step04").click( function() {
 	$("#line-progress").css("width", "75%");
-	$(".production").addClass("active").siblings().removeClass("active");
+	$(".work").addClass("active").siblings().removeClass("active");
 });
 
 $(".step05").click( function() {
 	$("#line-progress").css("width", "100%");
-	$(".analysis").addClass("active").siblings().removeClass("active");
+	$(".projects").addClass("active").siblings().removeClass("active");
 });
 
 $("#color").click( function() {
