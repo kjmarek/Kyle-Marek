@@ -42,7 +42,7 @@ div {
 }
 
 .main {
-  background-color: #FFFAF0;
+  background-color: #f74a4a;
   margin-right: 10%;
   margin-left: 10%;
   margin-top: 30px;
@@ -59,13 +59,13 @@ div {
 }
 
 .header {
-  background-color: #FFD700;
+  background-color: #ffe869;
   margin-top: 0px; 
 }
 
 .header-title {
   font-family: georgia, serif;
-  color: grey;
+  color: #736e6e;
   margin-block-end: 0px;
   margin-block-start: 0px;
   font-size: 60px;
@@ -99,7 +99,7 @@ div {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: #b3b3b3;
 }
 .navbarLI {
   float: left;
@@ -112,24 +112,23 @@ div {
 }
 .navbarLI-A-active {
   display: block;
-  color: grey;
+  color: #736e6e;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 .navbarLI-A-active:hover {
-  background-color: firebrick;
-  color: gold;
+  background-color: #ff2c2c;
 }
 .navbarLI-A {
   display: block;
-  color: gold;
+  color: #736e6e;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 .navbarLI-A:hover {
-  background-color: firebrick;
+  background-color: #ff2c2c;
 }
 
 
