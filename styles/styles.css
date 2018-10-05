@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #B22222;
+  background-color: #f74a4a;
   margin: 0px;
   font-family: sans-serif;
 }
@@ -42,7 +42,7 @@ div {
 }
 
 .main {
-  background-color: #f74a4a;
+  background-color: #FFFAF0;
   margin-right: 10%;
   margin-left: 10%;
   margin-top: 30px;
@@ -104,11 +104,15 @@ div {
 .navbarLI {
   float: left;
   border-right: 1px solid #FFFAF0;
+	border-top: 1px solid #FFFAF0;
+  border-bottom: 1px solid #FFFAF0;
 }
 .navbarLI-active {
   float: left;
   background-color: gold;
   border-right: 1px solid #FFFAF0;
+  border-top: 1px solid #FFFAF0;
+  border-bottom: 1px solid #FFFAF0;
 }
 .navbarLI-A-active {
   display: block;
