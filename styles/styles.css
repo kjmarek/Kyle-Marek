@@ -99,7 +99,7 @@ div {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: ##ffe869;
+  background-color: #b3b3b3;
 }
 .navbarLI {
   float: left;
@@ -112,7 +112,7 @@ div {
 }
 .navbarLI-A-active {
   display: block;
-  color: ##fff6c4;
+  color: #736e6e;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
