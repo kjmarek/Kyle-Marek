@@ -99,7 +99,7 @@ div {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #b3b3b3;
+  background-color: #ffe869;
 }
 .navbarLI {
   float: left;
@@ -107,7 +107,7 @@ div {
 }
 .navbarLI-active {
   float: left;
-  background-color: lightgrey;
+  background-color: #fbffb2;
   border-right: 1px solid #FFFAF0;
 }
 .navbarLI-A-active {
